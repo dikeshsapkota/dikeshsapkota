@@ -41,11 +41,11 @@ A web app to generate strong and secure passwords using JavaScript.
 
 🧮 **Calculator App**  
 A simple calculator built with HTML, CSS, and JavaScript.  
-👉 (Add your calculator repo link here)
+👉 https://github.com/dikeshsapkota/calculator
 
 👟 **Sneakers Life**  
 An e-commerce style sneaker showcase website with carousel, slider, and contact form.  
-👉 (Add repo link here)
+👉 https://github.com/dikeshsapkota/Sneakers-Life
 
 ---
 
