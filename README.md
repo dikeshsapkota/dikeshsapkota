@@ -61,7 +61,7 @@ An e-commerce style sneaker showcase website with carousel, slider, and contact 
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/dikeshsapkota  
-- LinkedIn: *(add your LinkedIn link)*  
+- LinkedIn: www.linkedin.com/in/dikesh-sapkota-430831316 
 
 ---
 
