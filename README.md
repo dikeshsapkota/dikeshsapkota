@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dikesh Sapkota
 
-🚀 Aspiring Frontend Developer | JavaScript Enthusiast | CSIT Student  
+ Aspiring Frontend Developer | JavaScript Enthusiast | CSIT Student  
 
 I’m a passionate learner focused on building **clean, responsive, and user-friendly web applications**.  
 Currently improving my skills in **JavaScript (ES6), Bootstrap, and Tailwind CSS** while building real-world projects.
