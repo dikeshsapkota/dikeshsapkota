@@ -47,6 +47,9 @@ A simple calculator built with HTML, CSS, and JavaScript.
 An e-commerce style sneaker showcase website with carousel, slider, and contact form.  
 👉 https://github.com/dikeshsapkota/Sneakers-Life
 
+🧠 **Quiz App – An interactive quiz application using the Open Trivia Database (OpenTDB) API. Features category-based quizzes, real-time scoring, and a clean, modular JavaScript architecture focused on smooth user experience.
+👉 https://github.com/dikeshsapkota/Quiz-app
+
 ---
 
 ## 📈 What I’m Working On
