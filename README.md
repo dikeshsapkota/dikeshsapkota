@@ -1,71 +1,79 @@
-# Hi 👋, I'm Dikesh Sapkota
+# 👋 Hey, I'm Dikesh Sapkota
 
- Aspiring Frontend Developer | JavaScript Enthusiast | CSIT Student  
-
-I’m a passionate learner focused on building **clean, responsive, and user-friendly web applications**.  
-Currently improving my skills in **JavaScript (ES6), Bootstrap, and Tailwind CSS** while building real-world projects.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&color=2851E3&center=true&vCenter=true&width=600&lines=CSIT+Student;Aspiring+Full-Stack+Developer;Always+Learning+Something+New;Coffee+%2B+Code+%3D+Productivity" />
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 BSc CSIT student  
-- 🌱 Currently learning **Bootstrap, Tailwind CSS & modern JavaScript (ES6)**  
-- 💡 Interested in **Frontend Development & UI/UX**  
-- 🛠️ Love building projects to learn by doing  
-- 🎯 Goal: Become a skilled frontend developer and build production-ready applications  
+* 🎓 BSc CSIT @ Vedas College, Jawlakhel
+* 🌱 Currently learning React, Node.js and Backend Development
+* 💡 Interested in Web Development and Software Engineering
+* ♟️ Chess Enthusiast
+* ☕ Coding + Coffee = Perfect Combination
+* 📚 Manga & Comic Reader
+* ⚽ Football Fan
+* 🚀 Open to Internship Opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 GitHub Stats
 
-**Frontend**
-- HTML5  
-- CSS3  
-- JavaScript (ES6)  
-- Bootstrap  
-- Tailwind CSS  
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dikeshsapkota&show_icons=true&theme=tokyonight&hide_border=true" />
 
-**Tools**
-- Git & GitHub  
-- VS Code  
-- Live Server  
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikeshsapkota&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📂 Projects
+## 🔥 GitHub Streak
 
-🔐 **Password Generator**  
-A web app to generate strong and secure passwords using JavaScript.  
-👉 https://github.com/dikeshsapkota/Password-Generator  
-
-🧮 **Calculator App**  
-A simple calculator built with HTML, CSS, and JavaScript.  
-👉 https://github.com/dikeshsapkota/calculator
-
-👟 **Sneakers Life**  
-An e-commerce style sneaker showcase website with carousel, slider, and contact form.  
-👉 https://github.com/dikeshsapkota/Sneakers-Life
-
-🧠 **Quiz App – An interactive quiz application using the Open Trivia Database (OpenTDB) API. Features category-based quizzes, real-time scoring, and a clean, modular JavaScript architecture focused on smooth user experience.
-👉 https://github.com/dikeshsapkota/Quiz-app
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dikeshsapkota&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📈 What I’m Working On
+## 🏆 GitHub Trophies
 
-- Making projects fully **mobile-responsive**
-- Improving **JavaScript logic & ES6 syntax**
-- Learning **Bootstrap & Tailwind** for faster UI development
-- Writing better, cleaner code
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/dikeshsapkota  
-- LinkedIn: www.linkedin.com/in/dikesh-sapkota-430831316 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dikeshsapkota&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-⭐ Feel free to check out my repositories and give a star if you like my work!
+## 🎯 Current Goals
+
+```text
+✓ Build Strong JavaScript Fundamentals
+✓ Learn React.js
+✓ Learn Node.js & Express.js
+✓ Build Full Stack Projects
+✓ Secure Software Development Internship
+```
+
+---
+
+## 🎮 Beyond Coding
+
+| Hobby      | Description                          |
+| ---------- | ------------------------------------ |
+| ♟️ Chess   | Strategic Thinking & Problem Solving |
+| 📚 Manga   | Creativity & Storytelling            |
+| ☕ Coffee   | Fuel for Coding Sessions             |
+| ⚽ Football | Passion for Teamwork & Competition   |
+
+---
+
+## 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2851E3?style=for-the-badge)](https://dikeshsapkota.github.io/Portfolio)
+
+[![Chess](https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge)](https://www.chess.com/member/blunderkingdikesh)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)](https://github.com/dikeshsapkota)
+
+---
+
+![](https://komarev.com/ghpvc/?username=dikeshsapkota\&color=2851E3\&style=for-the-badge)
