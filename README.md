@@ -166,7 +166,7 @@ Current objective:
 
 <p align="center">
 
-<a href="https://dikeshsapkota.github.io/Portfolio/">
+<a href="https://dikeshsapkota.github.io/Portfolio2.0/">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
