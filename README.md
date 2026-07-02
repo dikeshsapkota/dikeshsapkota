@@ -1,149 +1,152 @@
 <div align="center">
 
-# ⚡ SYSTEM INITIALIZED
+# 🌌 GALACTIC DEVELOPER TERMINAL
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Hello+There!+I'm+Dikesh+Sapkota;Frontend+Developer+in+Progress;Future+Full+Stack+Developer;Always+Learning+Something+New..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=900&lines=Initializing+Developer+Profile...;Welcome+Commander.;I'm+Dikesh+Sapkota.;Frontend+Developer.;Future+Full+Stack+Engineer.;Building+Projects+One+Commit+at+a+Time." />
 
-<img src="https://komarev.com/ghpvc/?username=dikeshsapkota&label=Visitors&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=dikeshsapkota&label=Profile+Views&color=3B82F6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🌌 TRANSMISSION LOG
-
-```bash
-> Developer : Dikesh Sapkota
-
-Status      : ONLINE
-
-Education   : BSc CSIT @ Vedas College
-
-Location    : Nepal 🇳🇵
-
-Mission     : Becoming a Full Stack Developer
-
-Focus       : React • Node.js • Software Engineering
-
-Current XP  : Building Projects Every Week
-```
-
----
-
-# ⚡ ABOUT ME
+# ⚡ SYSTEM STATUS
 
 ```yaml
-Name: Dikesh Sapkota
+Developer : Dikesh Sapkota
 
-Learning:
-  - React
-  - Node.js
-  - Express.js
-  - REST API
+Status : Online 🟢
 
-Interested In:
-  - Web Development
-  - Backend Engineering
-  - Software Architecture
+Education :
+  BSc CSIT
+  Vedas College
+  Jawlakhel, Nepal
 
-Currently:
-  - Building personal projects
-  - Improving JavaScript
-  - Preparing for internships
+Current Mission :
+  Become a Full Stack Developer
 
-Fun Facts:
-  - ♟️ Chess Player
-  - ☕ Coffee Lover
-  - 📚 Manga Reader
-  - ⚽ Football Fan
+Current Learning :
+  React
+  Node.js
+  Express.js
+
+Interests :
+  Software Engineering
+  Web Development
+  Open Source
 ```
 
 ---
 
-# 🚀 TECH ARSENAL
+# 🛰 ABOUT ME
 
-## Frontend
+```bash
+> whoami
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-</p>
+Dikesh Sapkota
 
-## Backend
+Computer Science student passionate about building modern,
+responsive and scalable web applications.
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
+I enjoy solving problems through code, continuously learning
+new technologies and turning ideas into real-world projects.
 
-## Languages
+Current objective:
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp"/>
-</p>
+→ Master Frontend Development
+→ Learn Backend Development
+→ Build Production Ready Applications
+→ Secure a Software Development Internship
+```
 
-## Database
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
+# 🚀 TECH STACK
 
-## Tools
+### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ---
 
-# 📡 CURRENT MISSION
+### Backend
 
-```
-██████████░░░░░░░░ 60%
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-☑ HTML
-☑ CSS
-☑ JavaScript
+---
+
+### Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp" />
+</p>
+
+---
+
+### Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+---
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+# ⚔ MISSION PROGRESS
+
+```text
+██████████████████████░░░░░░░░░░ 65%
+
+✔ HTML
+✔ CSS
+✔ JavaScript
+✔ Git & GitHub
+
 ◉ React
 ◉ Node.js
-◯ Express
-◯ MongoDB
-◯ Next.js
+
+○ Express.js
+○ MongoDB
+○ Next.js
+○ TypeScript
 ```
 
 ---
 
-# ⚔ GitHub Command Center
+# 📈 GITHUB ANALYTICS
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dikeshsapkota&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dikeshsapkota&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dikeshsapkota&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dikeshsapkota&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🛰 Most Used Languages
+# 💻 MOST USED LANGUAGES
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikeshsapkota&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikeshsapkota&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://github.com/dikeshsapkota/dikeshsapkota/blob/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 🏆 Achievements
+# 🏆 ACHIEVEMENTS
 
 <p align="center">
 
@@ -153,26 +156,37 @@ Fun Facts:
 
 ---
 
-# 🎯 2026 Objectives
+# 🐍 CONTRIBUTION GRAPH
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/dikeshsapkota/dikeshsapkota/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🎯 CURRENT OBJECTIVES
 
 ```diff
 + Master JavaScript
-+ Learn React
-+ Build Full Stack Applications
++ Build Full Stack Projects
++ Learn React Ecosystem
 + Learn Node.js & Express
-+ Contribute to Open Source
++ Explore Open Source
 + Secure Software Development Internship
 ```
 
 ---
 
-# 💭 Random Dev Quote
+# ☕ LIFE OUTSIDE CODING
 
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
+| Hobby | Why I Enjoy It |
+|-------|----------------|
+| ♟ Chess | Strategy & Problem Solving |
+| 📚 Manga | Creativity & Storytelling |
+| ☕ Coffee | Best Debugging Partner |
+| ⚽ Football | Teamwork & Competition |
 
 ---
 
@@ -181,19 +195,15 @@ Fun Facts:
 <p align="center">
 
 <a href="https://dikeshsapkota.github.io/Portfolio/">
-Portfolio
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
-•
 
 <a href="https://github.com/dikeshsapkota">
-GitHub
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
 </a>
 
-•
-
 <a href="https://www.chess.com/member/blunderkingdikesh">
-Chess
+<img src="https://img.shields.io/badge/Chess-111827?style=for-the-badge&logo=chess.com"/>
 </a>
 
 </p>
@@ -202,8 +212,8 @@ Chess
 
 <div align="center">
 
-### "Every commit is one step closer to mastery."
+## ⭐ "Every commit brings me one step closer to becoming the developer I aspire to be."
 
-⭐ Thanks for visiting my profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3B82F6&section=footer"/>
 
 </div>
