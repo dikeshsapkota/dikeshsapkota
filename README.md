@@ -134,33 +134,7 @@ Current objective:
 
 </p>
 
----
 
-# 💻 MOST USED LANGUAGES
-
-<p align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikeshsapkota&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 ACHIEVEMENTS
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dikeshsapkota&theme=algolia&no-frame=true&row=2&column=4"/>
-</p>
-
----
-
-# 🐍 CONTRIBUTION GRAPH
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/dikeshsapkota/dikeshsapkota/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 
 ---
 
