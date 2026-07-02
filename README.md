@@ -1,102 +1,209 @@
-# 👋 Hey, I'm Dikesh Sapkota
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&color=2851E3&center=true&vCenter=true&width=600&lines=CSIT+Student;Aspiring+Full-Stack+Developer;Always+Learning+Something+New;Coffee+%2B+Code+%3D+Productivity" />
+# ⚡ SYSTEM INITIALIZED
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Hello+There!+I'm+Dikesh+Sapkota;Frontend+Developer+in+Progress;Future+Full+Stack+Developer;Always+Learning+Something+New..." />
 
-## 🧑‍💻 About Me
+<img src="https://komarev.com/ghpvc/?username=dikeshsapkota&label=Visitors&color=0e75b6&style=flat"/>
 
-* 🎓 BSc CSIT @ Vedas College, Jawlakhel
-* 🌱 Currently learning React, Node.js and Backend Development
-* 💡 Interested in Web Development and Software Engineering
-* ♟️ Chess Enthusiast
-* ☕ Coding + Coffee = Perfect Combination
-* 📚 Manga & Comic Reader
-* ⚽ Football Fan
-* 🚀 Open to Internship Opportunities
-
----
-## 🛠️ Tech Stack
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ⚙️ Currently Learning
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 💻 Programming
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dikeshsapkota&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikeshsapkota&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 🔥 GitHub Streak
+# 🌌 TRANSMISSION LOG
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dikeshsapkota&theme=tokyonight&hide_border=true" />
-</p>
+```bash
+> Developer : Dikesh Sapkota
 
----
+Status      : ONLINE
 
-## 🏆 GitHub Trophies
+Education   : BSc CSIT @ Vedas College
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dikeshsapkota&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+Location    : Nepal 🇳🇵
 
----
+Mission     : Becoming a Full Stack Developer
 
-## 🎯 Current Goals
+Focus       : React • Node.js • Software Engineering
 
-```text
-✓ Build Strong JavaScript Fundamentals
-✓ Learn React.js
-✓ Learn Node.js & Express.js
-✓ Build Full Stack Projects
-✓ Secure Software Development Internship
+Current XP  : Building Projects Every Week
 ```
 
 ---
 
-## 🎮 Beyond Coding
+# ⚡ ABOUT ME
 
-| Hobby      | Description                          |
-| ---------- | ------------------------------------ |
-| ♟️ Chess   | Strategic Thinking & Problem Solving |
-| 📚 Manga   | Creativity & Storytelling            |
-| ☕ Coffee   | Fuel for Coding Sessions             |
-| ⚽ Football | Passion for Teamwork & Competition   |
+```yaml
+Name: Dikesh Sapkota
+
+Learning:
+  - React
+  - Node.js
+  - Express.js
+  - REST API
+
+Interested In:
+  - Web Development
+  - Backend Engineering
+  - Software Architecture
+
+Currently:
+  - Building personal projects
+  - Improving JavaScript
+  - Preparing for internships
+
+Fun Facts:
+  - ♟️ Chess Player
+  - ☕ Coffee Lover
+  - 📚 Manga Reader
+  - ⚽ Football Fan
+```
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 TECH ARSENAL
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2851E3?style=for-the-badge)](https://dikeshsapkota.github.io/Portfolio)
+## Frontend
 
-[![Chess](https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge)](https://www.chess.com/member/blunderkingdikesh)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)](https://github.com/dikeshsapkota)
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp"/>
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=dikeshsapkota\&color=2851E3\&style=for-the-badge)
+# 📡 CURRENT MISSION
+
+```
+██████████░░░░░░░░ 60%
+
+☑ HTML
+☑ CSS
+☑ JavaScript
+◉ React
+◉ Node.js
+◯ Express
+◯ MongoDB
+◯ Next.js
+```
+
+---
+
+# ⚔ GitHub Command Center
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dikeshsapkota&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dikeshsapkota&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🛰 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikeshsapkota&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://github.com/dikeshsapkota/dikeshsapkota/blob/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dikeshsapkota&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🎯 2026 Objectives
+
+```diff
++ Master JavaScript
++ Learn React
++ Build Full Stack Applications
++ Learn Node.js & Express
++ Contribute to Open Source
++ Secure Software Development Internship
+```
+
+---
+
+# 💭 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 CONNECT
+
+<p align="center">
+
+<a href="https://dikeshsapkota.github.io/Portfolio/">
+Portfolio
+</a>
+
+•
+
+<a href="https://github.com/dikeshsapkota">
+GitHub
+</a>
+
+•
+
+<a href="https://www.chess.com/member/blunderkingdikesh">
+Chess
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### "Every commit is one step closer to mastery."
+
+⭐ Thanks for visiting my profile.
+
+</div>
