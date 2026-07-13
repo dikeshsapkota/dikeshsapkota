@@ -1,46 +1,123 @@
 <div align="center">
 
+
+<div align="center">
+
 # GALACTIC DEVELOPER TERMINAL
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Initializing+Developer+Profile...;Welcome+Commander.;I'm+Dikesh+Sapkota.;Full+Stack+Developer+in+Progress.;Building+AI+Powered+Web+Applications.;React+•+Node.js+•+Express+•+OCR.;Always+Learning.+Always+Building." />
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║                  GALACTIC DEVELOPMENT SYSTEM v9.6                   ║
+║                     CLASSIFIED ACCESS TERMINAL                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║                         .         *                                  ║
+║              *                            .                          ║
+║                                  .                                   ║
+║                         /\\                                           ║
+║                        /  \\                *                          ║
+║                       /____\\                                          ║
+║                  ____|_    _|____                                    ║
+║                 /     |    |     \\                                   ║
+║          ______/______|____|______\\______                            ║
+║         /      /      /    \\      \\      \\                           ║
+║        /______/______/______\\______\\______\\                          ║
+║        |      |      GALACTIC       |      |                         ║
+║        |      |    DEV COMMANDER    |      |                         ║
+║        |______|_____________________|______|                         ║
+║             /_/                  \\_\\                                 ║
+║                                                                      ║
+║                   TRANSMISSION SIGNAL DETECTED                       ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ PILOT       : DIKESH SAPKOTA                                        ║
+║ DESIGNATION : FULL STACK DEVELOPER IN PROGRESS                      ║
+║ LOCATION    : PLANET EARTH / NEPAL                                  ║
+║ MISSION     : BUILD INTELLIGENT WEB SYSTEMS                         ║
+║ STATUS      : ONLINE                                                ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
-<img src="https://komarev.com/ghpvc/?username=dikeshsapkota&label=Profile+Views&color=3B82F6&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2200&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=%3E+BOOTING+GALACTIC+DEVELOPER+TERMINAL...;%3E+IDENTITY+CONFIRMED%3A+DIKESH+SAPKOTA;%3E+LOADING+REACT+MODULES...;%3E+CONNECTING+NODE.JS+BACKEND...;%3E+INITIALIZING+AI+SYSTEMS...;%3E+MISSION%3A+BUILD+THE+FUTURE." />
+
+<img src="https://komarev.com/ghpvc/?username=dikeshsapkota&label=TERMINAL+VISITORS&color=22C55E&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# SYSTEM STATUS
+# COMMANDER PROFILE
 
-```yaml
-Developer : Dikesh Sapkota
+```bash
+galactic-terminal@dikesh:~$ whoami
 
-Status : Building 🚀
-
-Education :
-  BSc CSIT (6th Semester)
-  Vedas College
-  Jawlakhel, Nepal
-
-Current Focus :
-  Full Stack Development
-  AI Powered Applications
-
-Currently Building :
-  AI Government ID Information Extraction System
-
-Learning :
-  React
-  Node.js
-  Express.js
-  REST APIs
-  Backend Architecture
-  OCR & AI Integration
-  Deployment (Netlify + Render)
+NAME        : Dikesh Sapkota
+ROLE        : Full Stack Developer in Progress
+EDUCATION   : BSc CSIT, 6th Semester
+BASE        : Vedas College, Jawalakhel, Nepal
+CLEARANCE   : Developer Level 06
+STATUS      : Online
 ```
 
 ---
 
+# SHIP SYSTEMS
+
+```text
+┌─────────────────────────────────────────────────────────────────┐
+│                    USS CODE EXPLORER                            │
+├───────────────────────┬─────────────────────────────────────────┤
+│ NAVIGATION SYSTEM     │ React, JavaScript, Vite                │
+│ PROPULSION ENGINE     │ Node.js, Express.js                    │
+│ DATA CORE             │ SQLite, MySQL                          │
+│ AI SCANNER            │ Tesseract OCR, OpenAI API              │
+│ COMMUNICATION ARRAY   │ REST APIs, Axios                       │
+│ DEPLOYMENT BAY        │ Netlify, Render                        │
+│ ENGINEERING TOOLS     │ Git, GitHub, VS Code, Postman          │
+└───────────────────────┴─────────────────────────────────────────┘
+```
+
+---
+
+# CURRENT SPACE MISSION
+
+```text
+MISSION ID      : GOV-ID-AI-001
+MISSION NAME    : AI ID Information Extraction System
+MISSION TYPE    : Full Stack / OCR / Artificial Intelligence
+MISSION STATUS  : ACTIVE DEVELOPMENT
+
+OBJECTIVES:
+[✓] Upload government identity document
+[✓] Process image through OCR
+[✓] Extract structured citizen information
+[✓] Connect React frontend with Express backend
+[✓] Store extracted records in database
+[✓] Deploy frontend and backend
+[>] Improve OCR accuracy
+[>] Integrate GPT structured extraction
+[ ] Add secure authentication
+[ ] Add administrator command centre
+```
+
+---
+
+# DEVELOPER NAVIGATION MAP
+
+```text
+                         [ OPEN SOURCE ]
+                               |
+                               |
+[ FRONTEND ] -------- [ DIKESH COMMAND ] -------- [ BACKEND ]
+     |                         |                         |
+ React / Vite            AI Applications          Node / Express
+     |                         |                         |
+ Responsive UI           OCR Processing            REST APIs
+                               |
+                               |
+                        [ DATABASE CORE ]
+                         SQLite / MySQL
+```
 # ABOUT ME
 
 ```bash
