@@ -1,48 +1,135 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:001a0f,50:003d1f,100:00ff88&section=header&text=GALACTIC%20DEVELOPER%20TERMINAL&fontColor=7CFFB2&fontSize=34&fontAlignY=35&animation=fadeIn&desc=Retro%20Space%20Command%20Interface&descAlignY=58&descSize=15"/>
 
-<div align="center">
+<svg width="100%" height="235" viewBox="0 0 1000 235" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="235" fill="#00150d"/>
 
-# GALACTIC DEVELOPER TERMINAL
+  <g fill="#4ade80" opacity="0.75">
+    <circle cx="60" cy="35" r="2"/>
+    <circle cx="130" cy="85" r="1.8"/>
+    <circle cx="220" cy="42" r="1.5"/>
+    <circle cx="315" cy="105" r="2"/>
+    <circle cx="410" cy="30" r="1.6"/>
+    <circle cx="520" cy="90" r="1.5"/>
+    <circle cx="625" cy="45" r="2"/>
+    <circle cx="735" cy="100" r="1.7"/>
+    <circle cx="840" cy="38" r="2"/>
+    <circle cx="930" cy="82" r="1.5"/>
+    <circle cx="90" cy="185" r="1.5"/>
+    <circle cx="260" cy="170" r="2"/>
+    <circle cx="470" cy="190" r="1.5"/>
+    <circle cx="710" cy="175" r="2"/>
+    <circle cx="900" cy="190" r="1.5"/>
+  </g>
 
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                  GALACTIC DEVELOPMENT SYSTEM v9.6                   ║
-║                     CLASSIFIED ACCESS TERMINAL                      ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║                         .         *                                  ║
-║              *                            .                          ║
-║                                  .                                   ║
-║                         /\\                                           ║
-║                        /  \\                *                          ║
-║                       /____\\                                          ║
-║                  ____|_    _|____                                    ║
-║                 /     |    |     \\                                   ║
-║          ______/______|____|______\\______                            ║
-║         /      /      /    \\      \\      \\                           ║
-║        /______/______/______\\______\\______\\                          ║
-║        |      |      GALACTIC       |      |                         ║
-║        |      |    DEV COMMANDER    |      |                         ║
-║        |______|_____________________|______|                         ║
-║             /_/                  \\_\\                                 ║
-║                                                                      ║
-║                   TRANSMISSION SIGNAL DETECTED                       ║
-║                                                                      ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ PILOT       : DIKESH SAPKOTA                                        ║
-║ DESIGNATION : FULL STACK DEVELOPER IN PROGRESS                      ║
-║ LOCATION    : PLANET EARTH / NEPAL                                  ║
-║ MISSION     : BUILD INTELLIGENT WEB SYSTEMS                         ║
-║ STATUS      : ONLINE                                                ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+  <g fill="#22c55e">
+    <path d="M0 0 L18 7 L0 14 L5 7 Z">
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        from="-50 55"
+        to="1050 55"
+        dur="9s"
+        repeatCount="indefinite"/>
+    </path>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2200&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=%3E+BOOTING+GALACTIC+DEVELOPER+TERMINAL...;%3E+IDENTITY+CONFIRMED%3A+DIKESH+SAPKOTA;%3E+LOADING+REACT+MODULES...;%3E+CONNECTING+NODE.JS+BACKEND...;%3E+INITIALIZING+AI+SYSTEMS...;%3E+MISSION%3A+BUILD+THE+FUTURE." />
+    <path d="M0 0 L14 5 L0 10 L4 5 Z">
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        from="1050 145"
+        to="-50 145"
+        dur="12s"
+        repeatCount="indefinite"/>
+    </path>
 
-<img src="https://komarev.com/ghpvc/?username=dikeshsapkota&label=TERMINAL+VISITORS&color=22C55E&style=for-the-badge"/>
+    <path d="M0 0 L11 4 L0 8 L3 4 Z" opacity="0.7">
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        from="-30 205"
+        to="1030 205"
+        dur="15s"
+        repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <g transform="translate(500 102)">
+    <path d="M0 -42 L18 -10 L52 0 L18 10 L0 42 L-18 10 L-52 0 L-18 -10 Z"
+          fill="none"
+          stroke="#4ade80"
+          stroke-width="3"/>
+    <path d="M0 -30 L10 -7 L36 0 L10 7 L0 30 L-10 7 L-36 0 L-10 -7 Z"
+          fill="#002a18"
+          stroke="#22c55e"
+          stroke-width="2"/>
+    <circle cx="0" cy="0" r="8" fill="#4ade80"/>
+  </g>
+
+  <text x="500" y="178"
+        fill="#86efac"
+        font-family="monospace"
+        font-size="21"
+        text-anchor="middle">
+    USS CODE EXPLORER // ONLINE
+  </text>
+
+  <text x="500" y="208"
+        fill="#4ade80"
+        font-family="monospace"
+        font-size="14"
+        text-anchor="middle">
+    PILOT: DIKESH SAPKOTA • MISSION: BUILD INTELLIGENT SYSTEMS
+  </text>
+</svg>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=2400&pause=700&color=39FF88&center=true&vCenter=true&width=920&lines=%3E+BOOTING+GALACTIC+DEVELOPER+TERMINAL...;%3E+IDENTITY+CONFIRMED%3A+DIKESH+SAPKOTA;%3E+LOADING+REACT+MODULES...;%3E+CONNECTING+NODE.JS+BACKEND...;%3E+INITIALIZING+OCR+AND+AI+SYSTEMS...;%3E+MISSION+STATUS%3A+ACTIVE" />
+
+<img src="https://komarev.com/ghpvc/?username=dikeshsapkota&label=TERMINAL+VISITORS&color=16A34A&style=for-the-badge"/>
 
 </div>
+
+---
+
+# SYSTEM STATUS
+
+```yaml
+Developer :
+  Dikesh Sapkota
+
+Status :
+  Online
+
+Education :
+  BSc CSIT
+  6th Semester
+  Vedas College
+  Jawalakhel, Nepal
+
+Current Role :
+  Full Stack Developer in Progress
+
+Current Mission :
+  AI Government ID Information Extraction System
+
+Current Focus :
+  Full Stack Development
+  Backend Architecture
+  AI-Assisted Applications
+  Deployment and Security
+
+Current Learning :
+  React
+  Node.js
+  Express.js
+  REST APIs
+  OCR
+  OpenAI Integration
+  Authentication
+```
 
 ---
 
@@ -52,11 +139,26 @@
 galactic-terminal@dikesh:~$ whoami
 
 NAME        : Dikesh Sapkota
-ROLE        : Full Stack Developer in Progress
-EDUCATION   : BSc CSIT, 6th Semester
-BASE        : Vedas College, Jawalakhel, Nepal
+ROLE        : Computer Science Student
+SPECIALITY  : Web Development and AI-Assisted Systems
+BASE        : Nepal
 CLEARANCE   : Developer Level 06
-STATUS      : Online
+STATUS      : ACTIVE
+```
+
+Computer Science student focused on building modern, responsive and practical full-stack applications.
+
+I enjoy solving problems through code, learning new technologies and turning ideas into functional projects. My recent work includes frontend development, REST APIs, OCR processing, backend deployment, database integration and AI-assisted data extraction.
+
+```text
+MISSION OBJECTIVES
+
+> Master Full Stack Development
+> Build Production-Ready Applications
+> Improve Backend Architecture
+> Explore AI Integration
+> Contribute to Open Source
+> Secure a Software Development Internship
 ```
 
 ---
@@ -64,132 +166,58 @@ STATUS      : Online
 # SHIP SYSTEMS
 
 ```text
-┌─────────────────────────────────────────────────────────────────┐
-│                    USS CODE EXPLORER                            │
-├───────────────────────┬─────────────────────────────────────────┤
-│ NAVIGATION SYSTEM     │ React, JavaScript, Vite                │
-│ PROPULSION ENGINE     │ Node.js, Express.js                    │
-│ DATA CORE             │ SQLite, MySQL                          │
-│ AI SCANNER            │ Tesseract OCR, OpenAI API              │
-│ COMMUNICATION ARRAY   │ REST APIs, Axios                       │
-│ DEPLOYMENT BAY        │ Netlify, Render                        │
-│ ENGINEERING TOOLS     │ Git, GitHub, VS Code, Postman          │
-└───────────────────────┴─────────────────────────────────────────┘
-```
-
----
-
-# CURRENT SPACE MISSION
-
-```text
-MISSION ID      : GOV-ID-AI-001
-MISSION NAME    : AI ID Information Extraction System
-MISSION TYPE    : Full Stack / OCR / Artificial Intelligence
-MISSION STATUS  : ACTIVE DEVELOPMENT
-
-OBJECTIVES:
-[✓] Upload government identity document
-[✓] Process image through OCR
-[✓] Extract structured citizen information
-[✓] Connect React frontend with Express backend
-[✓] Store extracted records in database
-[✓] Deploy frontend and backend
-[>] Improve OCR accuracy
-[>] Integrate GPT structured extraction
-[ ] Add secure authentication
-[ ] Add administrator command centre
-```
-
----
-
-# DEVELOPER NAVIGATION MAP
-
-```text
-                         [ OPEN SOURCE ]
-                               |
-                               |
-[ FRONTEND ] -------- [ DIKESH COMMAND ] -------- [ BACKEND ]
-     |                         |                         |
- React / Vite            AI Applications          Node / Express
-     |                         |                         |
- Responsive UI           OCR Processing            REST APIs
-                               |
-                               |
-                        [ DATABASE CORE ]
-                         SQLite / MySQL
-```
-# ABOUT ME
-
-```bash
-> whoami
-
-Dikesh Sapkota
-
-Computer Science student passionate about building
-modern, scalable and real-world web applications.
-
-I enjoy solving challenging problems through code,
-learning new technologies, and turning ideas into
-production-ready projects.
-
-Current Goals
-
-→ Master Full Stack Development
-→ Learn Scalable Backend Architecture
-→ Build AI Powered Applications
-→ Contribute to Open Source
-→ Secure a Software Engineering Internship
+┌──────────────────────────┬──────────────────────────────────────────┐
+│ SYSTEM                   │ TECHNOLOGIES                             │
+├──────────────────────────┼──────────────────────────────────────────┤
+│ Navigation Interface     │ React, JavaScript, Vite                 │
+│ Propulsion Core          │ Node.js, Express.js                     │
+│ Data Storage             │ SQLite, MySQL                           │
+│ AI Scanner               │ Tesseract OCR, OpenAI API               │
+│ Communication Array      │ REST APIs, Axios                        │
+│ Deployment Bay           │ Netlify, Render                         │
+│ Engineering Console      │ Git, GitHub, VS Code, Postman           │
+└──────────────────────────┴──────────────────────────────────────────┘
 ```
 
 ---
 
 # TECH STACK
 
-### Frontend
+## Frontend Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
 </p>
 
----
-
-### Backend
+## Backend Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
----
-
-### Database
+## Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=c,cpp" />
 </p>
 
----
-
-### Languages
+## Database Systems
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
----
-
-### Tools & Platforms
+## Development Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,render" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify" />
 </p>
 
----
-
-### Currently Exploring
+## AI and Document Processing
 
 <p align="center">
 
-AI • OCR • Tesseract • Sharp • OpenAI API
+`Tesseract OCR` • `Sharp` • `OpenAI API` • `Structured Data Extraction`
 
 </p>
 
@@ -198,28 +226,83 @@ AI • OCR • Tesseract • Sharp • OpenAI API
 # MISSION PROGRESS
 
 ```text
-█████████████████████████████░░░░░ 78%
+OVERALL PROGRESS
 
-✔ HTML
-✔ CSS
-✔ JavaScript
-✔ Git & GitHub
-✔ React
-✔ REST APIs
-✔ Deployment
-✔ Express.js
-✔ SQLite
+██████████████████████████████░░░░░░ 78%
 
-◉ Node.js
-◉ AI Integration
+FRONTEND DEVELOPMENT
+██████████████████████████████████░░ 92%
 
-○ Authentication
-○ MongoDB
-○ PostgreSQL
-○ TypeScript
-○ Next.js
-○ Docker
-○ Testing
+BACKEND DEVELOPMENT
+██████████████████████████░░░░░░░░░ 72%
+
+DATABASE INTEGRATION
+██████████████████████░░░░░░░░░░░░░ 62%
+
+DEPLOYMENT
+████████████████████████████░░░░░░░ 78%
+
+AI INTEGRATION
+██████████████████░░░░░░░░░░░░░░░░ 52%
+```
+
+```text
+COMPLETED
+
+[✓] HTML
+[✓] CSS
+[✓] JavaScript
+[✓] Git and GitHub
+[✓] React
+[✓] REST APIs
+[✓] Express.js
+[✓] SQLite
+[✓] Axios
+[✓] Netlify Deployment
+[✓] Render Deployment
+[✓] OCR Integration
+
+IN PROGRESS
+
+[>] Node.js
+[>] AI Integration
+[>] Backend Architecture
+[>] Authentication
+[>] Security Practices
+
+NEXT TARGETS
+
+[ ] PostgreSQL
+[ ] TypeScript
+[ ] Next.js
+[ ] Docker
+[ ] Automated Testing
+```
+
+---
+
+# CURRENT MISSION
+
+```text
+MISSION ID      : GOV-ID-AI-001
+MISSION NAME    : AI GOVERNMENT ID INFORMATION EXTRACTION SYSTEM
+MISSION TYPE    : FULL STACK / OCR / ARTIFICIAL INTELLIGENCE
+MISSION STATUS  : ACTIVE DEVELOPMENT
+
+OBJECTIVES
+
+[✓] Upload Government Identity Documents
+[✓] Process Images with OCR
+[✓] Extract Structured Citizen Information
+[✓] Connect React Frontend with Express Backend
+[✓] Store Extracted Records
+[✓] Deploy Frontend on Netlify
+[✓] Deploy Backend on Render
+[>] Improve OCR Accuracy
+[>] Add GPT Structured Extraction
+[>] Improve Security
+[ ] Add Authentication
+[ ] Add Administrative Dashboard
 ```
 
 ---
@@ -228,21 +311,22 @@ AI • OCR • Tesseract • Sharp • OpenAI API
 
 ## AI Government ID Information Extraction System
 
-An AI-powered full-stack application that extracts structured information from government-issued identity documents using OCR and stores the extracted data securely.
+A full-stack application that extracts structured information from government-issued identity documents using OCR and AI-assisted parsing.
 
-**Tech Stack**
+**Technologies**
 
-React • Express • SQLite • Tesseract • Axios • Netlify • Render
+`React` • `Express` • `Tesseract.js` • `SQLite` • `Axios` • `Netlify` • `Render`
 
-**Features**
+**Main Features**
 
-- OCR Text Extraction
-- AI-assisted Data Parsing
-- Secure Database Storage
-- REST APIs
-- Full Stack Deployment
+- Image upload and preview
+- OCR text extraction
+- Structured information parsing
+- REST API integration
+- Database storage
+- Frontend and backend deployment
 
-Repository
+**Repository**
 
 https://github.com/dikeshsapkota/ID-Information-Extraction-System
 
@@ -250,47 +334,55 @@ https://github.com/dikeshsapkota/ID-Information-Extraction-System
 
 ## Personal Portfolio
 
-Modern responsive portfolio showcasing my projects, skills, education and development journey.
+A modern responsive portfolio showcasing my projects, education, technical skills and development journey.
 
-**Tech Stack**
+**Technologies**
 
-React • CSS • JavaScript
+`React` • `JavaScript` • `CSS`
 
-Repository
+**Repository**
 
 https://github.com/dikeshsapkota/Portfolio-2.0
 
-Live Demo
+**Live Demo**
 
 https://dikeshsapkota.github.io/Portfolio-2.0/
 
 ---
 
-## Travel Journal
+## My Travel Journal
 
-A React application demonstrating reusable components, props, state management and dynamic rendering.
+A React application demonstrating reusable components, props, state management and data-driven rendering.
 
-Repository
+**Repository**
 
 https://github.com/dikeshsapkota/MyTravelJournal
+
+**Live Demo**
+
+https://dikeshsapkota.github.io/MyTravelJournal/
 
 ---
 
 ## Quiz Application
 
-Interactive quiz application built with JavaScript and React concepts.
+An interactive quiz application built with JavaScript and React concepts.
 
-Repository
+**Repository**
 
 https://github.com/dikeshsapkota/Quiz-app
 
+**Live Demo**
+
+https://dikeshsapkota.github.io/Quiz-app/
+
 ---
 
-## Student Login & Registration Portal
+## Student Login and Registration Portal
 
-Authentication-based web application demonstrating frontend-backend interaction.
+A web application demonstrating form handling, validation and frontend-backend interaction.
 
-Repository
+**Repository**
 
 https://github.com/dikeshsapkota/Student-Login-Register-portal
 
@@ -299,17 +391,16 @@ https://github.com/dikeshsapkota/Student-Login-Register-portal
 # GITHUB ANALYTICS
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dikeshsapkota&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dikeshsapkota&theme=tokyonight&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dikeshsapkota&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=39FF88&icon_color=39FF88&text_color=B7F7CC&bg_color=00150D"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dikeshsapkota&theme=dark&hide_border=true&background=00150D&ring=39FF88&fire=22C55E&currStreakLabel=39FF88&sideLabels=B7F7CC&dates=7AE6A2"/>
 </p>
 
 <p align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikeshsapkota&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=39FF88&text_color=B7F7CC&bg_color=00150D"/>
+</p>
 
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=dikeshsapkota&theme=tokyo-night&hide_border=true"/>
-
+<p align="center">
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=dikeshsapkota&bg_color=00150D&color=39FF88&line=22C55E&point=86EFAC&area=true&hide_border=true"/>
 </p>
 
 ---
@@ -318,14 +409,15 @@ https://github.com/dikeshsapkota/Student-Login-Register-portal
 
 ```text
 React Advanced Patterns
-Node.js
-Express.js
+Node.js and Express.js
 REST API Development
 Backend Architecture
-Authentication
-AI Integration
+Authentication and Authorization
+OCR and Image Processing
+OpenAI API Integration
 System Design
 Cloud Deployment
+Application Security
 ```
 
 ---
@@ -333,11 +425,12 @@ Cloud Deployment
 # CURRENT OBJECTIVES
 
 ```diff
-+ Build Production Ready Full Stack Applications
-+ Learn AI Integration in Web Development
-+ Master Backend Development
-+ Explore System Design
++ Build Production-Ready Full Stack Applications
++ Improve Backend Development Skills
++ Learn Secure Authentication
++ Build AI-Assisted Web Applications
 + Contribute to Open Source
++ Strengthen Problem-Solving Skills
 + Secure a Software Engineering Internship
 ```
 
@@ -345,33 +438,33 @@ Cloud Deployment
 
 # LIFE OUTSIDE CODING
 
-| Hobby | Why I Enjoy It |
-|-------|----------------|
-| Chess | Improves Strategy & Problem Solving |
-| Manga & Comics | Creativity & Storytelling |
-| Coffee | My Favourite Coding Companion |
-| Football | Teamwork & Competition |
+| Activity | Why I Enjoy It |
+|:--|:--|
+| Chess | Strategy, patience and problem-solving |
+| Manga and Comics | Creativity and storytelling |
+| Coffee | A reliable coding companion |
+| Football | Teamwork and competition |
 
 ---
 
-# CONNECT
+# COMMUNICATION CHANNELS
 
 <p align="center">
 
 <a href="https://dikeshsapkota.github.io/Portfolio-2.0/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-003D1F?style=for-the-badge&logo=vercel&logoColor=7CFFB2"/>
 </a>
 
 <a href="https://github.com/dikeshsapkota">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GITHUB-003D1F?style=for-the-badge&logo=github&logoColor=7CFFB2"/>
 </a>
 
 <a href="https://www.linkedin.com/in/dikesh-sapkota-430831316/">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-003D1F?style=for-the-badge&logo=linkedin&logoColor=7CFFB2"/>
 </a>
 
 <a href="https://www.chess.com/member/blunderkingdikesh">
-<img src="https://img.shields.io/badge/Chess-111827?style=for-the-badge&logo=chess.com"/>
+  <img src="https://img.shields.io/badge/CHESS-003D1F?style=for-the-badge&logo=lichess&logoColor=7CFFB2"/>
 </a>
 
 </p>
@@ -380,8 +473,14 @@ Cloud Deployment
 
 <div align="center">
 
-## "The best way to learn software engineering is to build real projects, solve real problems, and keep improving every day."
+```text
+TRANSMISSION COMPLETE
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3B82F6&section=footer"/>
+Every project improves the system.
+Every error improves the developer.
+Every commit moves the mission forward.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00ff88,50:003d1f,100:001a0f&section=footer"/>
 
 </div>
