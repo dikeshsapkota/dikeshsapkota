@@ -34,25 +34,7 @@
         repeatCount="indefinite"/>
     </path>
 
-    <path d="M0 0 L14 5 L0 10 L4 5 Z">
-      <animateTransform
-        attributeName="transform"
-        type="translate"
-        from="1050 145"
-        to="-50 145"
-        dur="12s"
-        repeatCount="indefinite"/>
-    </path>
-
-    <path d="M0 0 L11 4 L0 8 L3 4 Z" opacity="0.7">
-      <animateTransform
-        attributeName="transform"
-        type="translate"
-        from="-30 205"
-        to="1030 205"
-        dur="15s"
-        repeatCount="indefinite"/>
-    </path>
+     
   </g>
 
   <g transform="translate(500 102)">
