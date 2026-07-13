@@ -56,30 +56,7 @@
   </g>
 
   <g transform="translate(500 102)">
-    <path d="M0 -42 L18 -10 L52 0 L18 10 L0 42 L-18 10 L-52 0 L-18 -10 Z"
-          fill="none"
-          stroke="#4ade80"
-          stroke-width="3"/>
-    <path d="M0 -30 L10 -7 L36 0 L10 7 L0 30 L-10 7 L-36 0 L-10 -7 Z"
-          fill="#002a18"
-          stroke="#22c55e"
-          stroke-width="2"/>
-    <circle cx="0" cy="0" r="8" fill="#4ade80"/>
-  </g>
-
-  <text x="500" y="178"
-        fill="#86efac"
-        font-family="monospace"
-        font-size="21"
-        text-anchor="middle">
-    USS CODE EXPLORER // ONLINE
-  </text>
-
-  <text x="500" y="208"
-        fill="#4ade80"
-        font-family="monospace"
-        font-size="14"
-        text-anchor="middle">
+   
     PILOT: DIKESH SAPKOTA • MISSION: BUILD INTELLIGENT SYSTEMS
   </text>
 </svg>
