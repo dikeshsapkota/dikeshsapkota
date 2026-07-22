@@ -68,27 +68,6 @@ CLEARANCE   : Developer Level 06
 STATUS      : ACTIVE
 ```
 
-Computer Science student focused on building modern, responsive and practical full-stack applications.
-
-I enjoy solving problems through code, learning new technologies and turning ideas into functional projects. My recent work includes frontend development, REST APIs, OCR processing, backend deployment, database integration and AI-assisted data extraction.
-
-
-
-# SHIP SYSTEMS
-
-```text
-┌──────────────────────────┬──────────────────────────────────────────┐
-│ SYSTEM                   │ TECHNOLOGIES                             │
-├──────────────────────────┼──────────────────────────────────────────┤
-│ Navigation Interface     │ React, JavaScript, Vite                 │
-│ Propulsion Core          │ Node.js, Express.js                     │
-│ Data Storage             │ SQLite, MySQL                           │
-│ AI Scanner               │ Tesseract OCR, OpenAI API               │
-│ Communication Array      │ REST APIs, Axios                        │
-│ Deployment Bay           │ Netlify, Render                         │
-│ Engineering Console      │ Git, GitHub, VS Code, Postman           │
-└──────────────────────────┴──────────────────────────────────────────┘
-```
 
 ---
 
@@ -124,13 +103,7 @@ I enjoy solving problems through code, learning new technologies and turning ide
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify" />
 </p>
 
-## AI and Document Processing
 
-<p align="center">
-
-`Tesseract OCR` • `Sharp` • `OpenAI API` • `Structured Data Extraction`
-
-</p>
 
 ---
 
@@ -157,52 +130,9 @@ AI INTEGRATION
 ██████████████████░░░░░░░░░░░░░░░░ 52%
 ```
 
-```text
-COMPLETED
 
-[✓] HTML
-[✓] CSS
-[✓] JavaScript
-[✓] Git and GitHub
-[✓] React
-[✓] REST APIs
-[✓] Express.js
-[✓] SQLite
-[✓] Axios
-[✓] Netlify Deployment
-[✓] Render Deployment
-[✓] OCR Integration
-
-IN PROGRESS
-
-[>] Node.js
-[>] AI Integration
-[>] Backend Architecture
-[>] Authentication
-[>] Security Practices
-
-NEXT TARGETS
-
-[ ] PostgreSQL
-[ ] TypeScript
-[ ] Next.js
-[ ] Docker
-[ ] Automated Testing
-```
 
 ---
-
-# CURRENT MISSION
-
-```text
-MISSION ID      : GOV-ID-AI-001
-MISSION NAME    : AI GOVERNMENT ID INFORMATION EXTRACTION SYSTEM
-MISSION TYPE    : FULL STACK / OCR / ARTIFICIAL INTELLIGENCE
-MISSION STATUS  : ACTIVE DEVELOPMENT
-
-
-
-
 
 # GITHUB ANALYTICS
 
@@ -221,36 +151,8 @@ MISSION STATUS  : ACTIVE DEVELOPMENT
 
 ---
 
-# CURRENT LEARNING
-
-```text
-React Advanced Patterns
-Node.js and Express.js
-REST API Development
-Backend Architecture
-Authentication and Authorization
-OCR and Image Processing
-OpenAI API Integration
-System Design
-Cloud Deployment
-Application Security
-```
-
----
 
 
-
-
-# LIFE OUTSIDE CODING
-
-| Activity | Why I Enjoy It |
-|:--|:--|
-| Chess | Strategy, patience and problem-solving |
-| Manga and Comics | Creativity and storytelling |
-| Coffee | A reliable coding companion |
-| Football | Teamwork and competition |
-
----
 
 # COMMUNICATION CHANNELS
 
