@@ -53,44 +53,7 @@
 
 ---
 
-# SYSTEM STATUS
 
-```yaml
-Developer :
-  Dikesh Sapkota
-
-Status :
-  Online
-
-Education :
-  BSc CSIT
-  6th Semester
-  Vedas College
-  Jawalakhel, Nepal
-
-Current Role :
-  Full Stack Developer in Progress
-
-Current Mission :
-  AI Government ID Information Extraction System
-
-Current Focus :
-  Full Stack Development
-  Backend Architecture
-  AI-Assisted Applications
-  Deployment and Security
-
-Current Learning :
-  React
-  Node.js
-  Express.js
-  REST APIs
-  OCR
-  OpenAI Integration
-  Authentication
-```
-
----
 
 # COMMANDER PROFILE
 
@@ -109,18 +72,7 @@ Computer Science student focused on building modern, responsive and practical fu
 
 I enjoy solving problems through code, learning new technologies and turning ideas into functional projects. My recent work includes frontend development, REST APIs, OCR processing, backend deployment, database integration and AI-assisted data extraction.
 
-```text
-MISSION OBJECTIVES
 
-> Master Full Stack Development
-> Build Production-Ready Applications
-> Improve Backend Architecture
-> Explore AI Integration
-> Contribute to Open Source
-> Secure a Software Development Internship
-```
-
----
 
 # SHIP SYSTEMS
 
@@ -248,104 +200,9 @@ MISSION NAME    : AI GOVERNMENT ID INFORMATION EXTRACTION SYSTEM
 MISSION TYPE    : FULL STACK / OCR / ARTIFICIAL INTELLIGENCE
 MISSION STATUS  : ACTIVE DEVELOPMENT
 
-OBJECTIVES
 
-[✓] Upload Government Identity Documents
-[✓] Process Images with OCR
-[✓] Extract Structured Citizen Information
-[✓] Connect React Frontend with Express Backend
-[✓] Store Extracted Records
-[✓] Deploy Frontend on Netlify
-[✓] Deploy Backend on Render
-[>] Improve OCR Accuracy
-[>] Add GPT Structured Extraction
-[>] Improve Security
-[ ] Add Authentication
-[ ] Add Administrative Dashboard
-```
 
----
 
-# FEATURED PROJECTS
-
-## AI Government ID Information Extraction System
-
-A full-stack application that extracts structured information from government-issued identity documents using OCR and AI-assisted parsing.
-
-**Technologies**
-
-`React` • `Express` • `Tesseract.js` • `SQLite` • `Axios` • `Netlify` • `Render`
-
-**Main Features**
-
-- Image upload and preview
-- OCR text extraction
-- Structured information parsing
-- REST API integration
-- Database storage
-- Frontend and backend deployment
-
-**Repository**
-
-https://github.com/dikeshsapkota/ID-Information-Extraction-System
-
----
-
-## Personal Portfolio
-
-A modern responsive portfolio showcasing my projects, education, technical skills and development journey.
-
-**Technologies**
-
-`React` • `JavaScript` • `CSS`
-
-**Repository**
-
-https://github.com/dikeshsapkota/Portfolio-2.0
-
-**Live Demo**
-
-https://dikeshsapkota.github.io/Portfolio-2.0/
-
----
-
-## My Travel Journal
-
-A React application demonstrating reusable components, props, state management and data-driven rendering.
-
-**Repository**
-
-https://github.com/dikeshsapkota/MyTravelJournal
-
-**Live Demo**
-
-https://dikeshsapkota.github.io/MyTravelJournal/
-
----
-
-## Quiz Application
-
-An interactive quiz application built with JavaScript and React concepts.
-
-**Repository**
-
-https://github.com/dikeshsapkota/Quiz-app
-
-**Live Demo**
-
-https://dikeshsapkota.github.io/Quiz-app/
-
----
-
-## Student Login and Registration Portal
-
-A web application demonstrating form handling, validation and frontend-backend interaction.
-
-**Repository**
-
-https://github.com/dikeshsapkota/Student-Login-Register-portal
-
----
 
 # GITHUB ANALYTICS
 
@@ -381,19 +238,8 @@ Application Security
 
 ---
 
-# CURRENT OBJECTIVES
 
-```diff
-+ Build Production-Ready Full Stack Applications
-+ Improve Backend Development Skills
-+ Learn Secure Authentication
-+ Build AI-Assisted Web Applications
-+ Contribute to Open Source
-+ Strengthen Problem-Solving Skills
-+ Secure a Software Engineering Internship
-```
 
----
 
 # LIFE OUTSIDE CODING
 
