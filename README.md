@@ -111,7 +111,7 @@
 
 <p align="center">
 
-<a href="https://dikeshsapkota.github.io/Portfolio-2.0/">
+<a href="https://dikeshsapkota.com.np/">
   <img src="https://img.shields.io/badge/PORTFOLIO-003D1F?style=for-the-badge&logo=vercel&logoColor=7CFFB2"/>
 </a>
 
