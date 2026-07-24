@@ -39,13 +39,12 @@
 
   <g transform="translate(500 102)">
    
-    PILOT: DIKESH SAPKOTA • MISSION: BUILD INTELLIGENT SYSTEMS
+    PILOT: DIKESH SAPKOTA • MISSION: BUILD INTELLIGENT SYSTEMS • SPECIALITY: Web Development and AI-Assisted Systems
   </text>
 </svg>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=2400&pause=700&color=39FF88&center=true&vCenter=true&width=920&lines=%3E+BOOTING+GALACTIC+DEVELOPER+TERMINAL...;%3E+IDENTITY+CONFIRMED%3A+DIKESH+SAPKOTA;%3E+LOADING+REACT+MODULES...;%3E+CONNECTING+NODE.JS+BACKEND...;%3E+INITIALIZING+OCR+AND+AI+SYSTEMS...;%3E+MISSION+STATUS%3A+ACTIVE" />
 
 <img src="https://komarev.com/ghpvc/?username=dikeshsapkota&label=TERMINAL+VISITORS&color=16A34A&style=for-the-badge"/>
 
@@ -53,20 +52,6 @@
 
 ---
 
-
-
-# COMMANDER PROFILE
-
-```bash
-galactic-terminal@dikesh:~$ whoami
-
-NAME        : Dikesh Sapkota
-ROLE        : Computer Science Student
-SPECIALITY  : Web Development and AI-Assisted Systems
-BASE        : Nepal
-CLEARANCE   : Developer Level 06
-STATUS      : ACTIVE
-```
 
 
 ---
@@ -107,33 +92,6 @@ STATUS      : ACTIVE
 
 ---
 
-# MISSION PROGRESS
-
-```text
-OVERALL PROGRESS
-
-██████████████████████████████░░░░░░ 78%
-
-FRONTEND DEVELOPMENT
-██████████████████████████████████░░ 92%
-
-BACKEND DEVELOPMENT
-██████████████████████████░░░░░░░░░ 72%
-
-DATABASE INTEGRATION
-██████████████████████░░░░░░░░░░░░░ 62%
-
-DEPLOYMENT
-████████████████████████████░░░░░░░ 78%
-
-AI INTEGRATION
-██████████████████░░░░░░░░░░░░░░░░ 52%
-```
-
-
-
----
-
 # GITHUB ANALYTICS
 
 <p align="center">
@@ -141,13 +99,8 @@ AI INTEGRATION
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dikeshsapkota&theme=dark&hide_border=true&background=00150D&ring=39FF88&fire=22C55E&currStreakLabel=39FF88&sideLabels=B7F7CC&dates=7AE6A2"/>
 </p>
 
-<p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikeshsapkota&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=39FF88&text_color=B7F7CC&bg_color=00150D"/>
-</p>
 
-<p align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=dikeshsapkota&bg_color=00150D&color=39FF88&line=22C55E&point=86EFAC&area=true&hide_border=true"/>
-</p>
+
 
 ---
 
@@ -178,16 +131,3 @@ AI INTEGRATION
 
 ---
 
-<div align="center">
-
-```text
-TRANSMISSION COMPLETE
-
-Every project improves the system.
-Every error improves the developer.
-Every commit moves the mission forward.
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00ff88,50:003d1f,100:001a0f&section=footer"/>
-
-</div>
