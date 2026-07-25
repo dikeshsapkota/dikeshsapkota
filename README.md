@@ -50,37 +50,9 @@
 
 # TECH STACK
 
-## Frontend Technologies
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,mysql,sqlite,c,cpp,git,github,vscode,postman,figma,vercel,netlify" />
 </p>
-
-## Backend Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-## Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp" />
-</p>
-
-## Database Systems
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-## Development Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify" />
-</p>
-
-## Web & Cloud
 
 <p align="center">
 
@@ -94,18 +66,10 @@
 
 <img src="https://img.shields.io/badge/Render-003D1F?style=for-the-badge&logo=render&logoColor=7CFFB2"/>
 
+<img src="https://img.shields.io/badge/RESTful_APIs-003D1F?style=for-the-badge&logo=json&logoColor=7CFFB2"/>
+
 </p>
 
----
-
-# GITHUB ANALYTICS
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dikeshsapkota&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=39FF88&icon_color=39FF88&text_color=B7F7CC&bg_color=00150D"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikeshsapkota&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=39FF88&text_color=B7F7CC&bg_color=00150D"/>
-</p>
-
----
 
 # COMMUNICATION CHANNELS
 
@@ -133,10 +97,4 @@
 
 </p>
 
----
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00ff88,50:003d1f,100:001a0f&section=footer"/>
-
-</div>
