@@ -26,7 +26,7 @@
 
 <p align="center">
   <img
-    src="./README-assets/fifa-card.png"
+    src=".dikeshsapkota-gitfut (1).png"
     width="260"
     alt="Dikesh Sapkota FIFA Card"
   />
