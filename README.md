@@ -22,7 +22,19 @@
     <circle cx="710" cy="175" r="2"/>
     <circle cx="900" cy="190" r="1.5"/>
   </g>
+<br/>
 
+<p align="center">
+  <img
+    src="./README-assets/fifa-card.png"
+    width="260"
+    alt="Dikesh Sapkota FIFA Card"
+  />
+</p>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=dikeshsapkota&label=TERMINAL+VISITORS&color=16A34A&style=for-the-badge"/>
   <g fill="#22c55e">
     <path d="M0 0 L18 7 L0 14 L5 7 Z">
       <animateTransform
