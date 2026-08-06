@@ -30,9 +30,7 @@
   <img src="./dikeshsapkota-gitfut%20(1).png" alt="Dikesh FIFA Card" width="280">
 </p>
 
-
-
-<br/>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=dikeshsapkota&label=TERMINAL+VISITORS&color=16A34A&style=for-the-badge"/>
   <g fill="#22c55e">
