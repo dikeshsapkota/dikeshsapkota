@@ -24,13 +24,13 @@
   </g>
 <br/>
 
+<br>
+
 <p align="center">
-  <img
-    src=".dikeshsapkota-gitfut (1).png"
-    width="260"
-    alt="Dikesh Sapkota FIFA Card"
-  />
+  <img src="./dikeshsapkota-gitfut%20(1).png" alt="Dikesh FIFA Card" width="280">
 </p>
+
+
 
 <br/>
 
