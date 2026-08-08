@@ -4,9 +4,7 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/dikeshsapkota/dikeshsapkota/main/dikeshsapkota-gitfut%20(1).png" width="280" alt="Dikesh Sapkota Developer Card"/>
 
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=dikeshsapkota&label=PROFILE+VISITS&color=16A34A&style=for-the-badge"/>
 
