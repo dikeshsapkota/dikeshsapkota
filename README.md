@@ -14,23 +14,47 @@
 
 # TECH STACK
 
+Languages, Frameworks & Databases
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,mongodb,mysql,postgres,sqlite,c,cpp,git,github,vscode,postman,figma,vercel,netlify" /> </p>
+
+⚙️ APIs, Authentication & Services
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,mysql,sqlite,c,cpp,git,github,vscode,postman,figma,vercel,netlify"/>
+
+<img src="https://img.shields.io/badge/RESTful_APIs-003D1F?style=for-the-badge&logo=json&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/JWT_Authentication-003D1F?style=for-the-badge&logo=jsonwebtokens&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/Role_Based_Auth-003D1F?style=for-the-badge&logo=auth0&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/eSewa_Payment-003D1F?style=for-the-badge&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/HMAC--SHA256-003D1F?style=for-the-badge&logo=letsencrypt&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/Resend-003D1F?style=for-the-badge&logo=gmail&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/Formspree-003D1F?style=for-the-badge&logo=formspree&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/Render-003D1F?style=for-the-badge&logo=render&logoColor=7CFFB2" />
+
 </p>
 
+Development Skills
+
 <p align="center">
 
-  <img src="https://img.shields.io/badge/REST_API-003D1F?style=for-the-badge&logo=fastapi&logoColor=7CFFB2"/>
+<img src="https://img.shields.io/badge/MERN_Stack-003D1F?style=for-the-badge&logo=mongodb&logoColor=7CFFB2" />
 
-  <img src="https://img.shields.io/badge/Auth0-003D1F?style=for-the-badge&logo=auth0&logoColor=7CFFB2"/>
+<img src="https://img.shields.io/badge/API_Integration-003D1F?style=for-the-badge&logo=postman&logoColor=7CFFB2" />
 
-  <img src="https://img.shields.io/badge/Resend-003D1F?style=for-the-badge&logo=maildotru&logoColor=7CFFB2"/>
+<img src="https://img.shields.io/badge/Payment_Integration-003D1F?style=for-the-badge&logo=stripe&logoColor=7CFFB2" />
 
-  <img src="https://img.shields.io/badge/Formspree-003D1F?style=for-the-badge&logo=formspree&logoColor=7CFFB2"/>
+<img src="https://img.shields.io/badge/Responsive_Design-003D1F?style=for-the-badge&logo=css3&logoColor=7CFFB2" />
 
-  <img src="https://img.shields.io/badge/Render-003D1F?style=for-the-badge&logo=render&logoColor=7CFFB2"/>
+<img src="https://img.shields.io/badge/SEO-003D1F?style=for-the-badge&logo=google&logoColor=7CFFB2" />
 
-  <img src="https://img.shields.io/badge/RESTful_APIs-003D1F?style=for-the-badge&logo=json&logoColor=7CFFB2"/>
+<img src="https://img.shields.io/badge/CRUD_Operations-003D1F?style=for-the-badge&logo=databricks&logoColor=7CFFB2" />
 
 </p>
 
