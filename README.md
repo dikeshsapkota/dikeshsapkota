@@ -16,7 +16,7 @@
 
 Languages, Frameworks & Databases
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,mongodb,mysql,postgres,sqlite,c,cpp,git,github,vscode,postman,figma,vercel,netlify" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,python,mongodb,mysql,postgres,sqlite,c,cpp,git,github,vscode,postman,figma,vercel,netlify" /> </p>
 
 ⚙️ APIs, Authentication & Services
 
