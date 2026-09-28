@@ -12,13 +12,17 @@
 
 ---
 
-# TECH STACK
+# 💻 TECH STACK
 
-Languages, Frameworks & Databases
+## 🚀 Languages, Frameworks & Databases
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,python,mongodb,mysql,postgres,sqlite,c,cpp,git,github,vscode,postman,figma,vercel,netlify" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,express,python,django,mongodb,mysql,postgres,sqlite,redis,prisma,c,cpp,git,github,vscode,postman,figma,vercel,netlify" />
+</p>
 
-⚙️ APIs, Authentication & Services
+---
+
+## ⚙️ APIs, Authentication & Backend Services
 
 <p align="center">
 
@@ -28,37 +32,137 @@ Languages, Frameworks & Databases
 
 <img src="https://img.shields.io/badge/Role_Based_Auth-003D1F?style=for-the-badge&logo=auth0&logoColor=7CFFB2" />
 
+<img src="https://img.shields.io/badge/Passport.js-003D1F?style=for-the-badge&logo=passport&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/Auth0-003D1F?style=for-the-badge&logo=auth0&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/REST_API_Integration-003D1F?style=for-the-badge&logo=postman&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/Serverless_Functions-003D1F?style=for-the-badge&logo=vercel&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/Redis-003D1F?style=for-the-badge&logo=redis&logoColor=7CFFB2" />
+
+</p>
+
+---
+
+## 🗄️ Database & ORM
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/MongoDB-003D1F?style=for-the-badge&logo=mongodb&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/PostgreSQL-003D1F?style=for-the-badge&logo=postgresql&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/MySQL-003D1F?style=for-the-badge&logo=mysql&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/SQLite-003D1F?style=for-the-badge&logo=sqlite&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/Prisma_ORM-003D1F?style=for-the-badge&logo=prisma&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/Neon_Postgres-003D1F?style=for-the-badge&logo=postgresql&logoColor=7CFFB2" />
+
+</p>
+
+---
+
+## 💳 APIs, Payments & External Services
+
+<p align="center">
+
 <img src="https://img.shields.io/badge/eSewa_Payment-003D1F?style=for-the-badge&logoColor=7CFFB2" />
 
 <img src="https://img.shields.io/badge/HMAC--SHA256-003D1F?style=for-the-badge&logo=letsencrypt&logoColor=7CFFB2" />
 
-<img src="https://img.shields.io/badge/Resend-003D1F?style=for-the-badge&logo=gmail&logoColor=7CFFB2" />
+<img src="https://img.shields.io/badge/Resend_Email_API-003D1F?style=for-the-badge&logo=gmail&logoColor=7CFFB2" />
 
 <img src="https://img.shields.io/badge/Formspree-003D1F?style=for-the-badge&logo=formspree&logoColor=7CFFB2" />
 
-<img src="https://img.shields.io/badge/Render-003D1F?style=for-the-badge&logo=render&logoColor=7CFFB2" />
+<img src="https://img.shields.io/badge/Tesseract_OCR-003D1F?style=for-the-badge&logoColor=7CFFB2" />
 
 </p>
 
-Development Skills
+---
+
+## 🛠️ Development Skills
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/MERN_Stack-003D1F?style=for-the-badge&logo=mongodb&logoColor=7CFFB2" />
 
-<img src="https://img.shields.io/badge/API_Integration-003D1F?style=for-the-badge&logo=postman&logoColor=7CFFB2" />
+<img src="https://img.shields.io/badge/Full_Stack_Development-003D1F?style=for-the-badge&logo=react&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/API_Development-003D1F?style=for-the-badge&logo=postman&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/Frontend_Backend_Integration-003D1F?style=for-the-badge&logo=react&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/Authentication_&_Authorization-003D1F?style=for-the-badge&logo=auth0&logoColor=7CFFB2" />
 
 <img src="https://img.shields.io/badge/Payment_Integration-003D1F?style=for-the-badge&logo=stripe&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/CRUD_Operations-003D1F?style=for-the-badge&logo=databricks&logoColor=7CFFB2" />
 
 <img src="https://img.shields.io/badge/Responsive_Design-003D1F?style=for-the-badge&logo=css3&logoColor=7CFFB2" />
 
 <img src="https://img.shields.io/badge/SEO-003D1F?style=for-the-badge&logo=google&logoColor=7CFFB2" />
 
-<img src="https://img.shields.io/badge/CRUD_Operations-003D1F?style=for-the-badge&logo=databricks&logoColor=7CFFB2" />
+<img src="https://img.shields.io/badge/Database_Design-003D1F?style=for-the-badge&logo=postgresql&logoColor=7CFFB2" />
 
 </p>
 
 ---
+
+## 🎨 Frontend & UI
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-003D1F?style=for-the-badge&logo=react&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-003D1F?style=for-the-badge&logo=tailwindcss&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/GSAP_Animations-003D1F?style=for-the-badge&logo=greensock&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/Responsive_UI-003D1F?style=for-the-badge&logo=css3&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/Figma-003D1F?style=for-the-badge&logo=figma&logoColor=7CFFB2" />
+
+</p>
+
+---
+
+## 🤖 Automation, OCR & Web Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python_Automation-003D1F?style=for-the-badge&logo=python&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/Playwright-003D1F?style=for-the-badge&logo=playwright&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/Web_Scraping-003D1F?style=for-the-badge&logo=python&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/OCR-003D1F?style=for-the-badge&logo=python&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/Data_Extraction-003D1F?style=for-the-badge&logo=python&logoColor=7CFFB2" />
+
+</p>
+
+---
+
+## ☁️ Deployment & Developer Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Vercel-003D1F?style=for-the-badge&logo=vercel&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/Netlify-003D1F?style=for-the-badge&logo=netlify&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/Render-003D1F?style=for-the-badge&logo=render&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/GitHub-003D1F?style=for-the-badge&logo=github&logoColor=7CFFB2" />
+
+<img src="https://img.shields.io/badge/Postman-003D1F?style=for-the-badge&logo=postman&logoColor=7CFFB2" />
+
+</p>---
 
 # COMMUNICATION CHANNELS
 
